@@ -1,4 +1,4 @@
-name: stcroixsugarbeach
+name: 'St. Croix Sugar Beach, USVI'
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.08245
@@ -22,8 +22,8 @@ color:
     - '#4f758c'
     - '#dacbb4'
     - '#4a4037'
-  brandStrength: 0.6208421045448631
-  lightness: 0.7421242548152804
-  saturation: 0.7711765873245895
-  rhythmicContrast: 0.6855985140427947
+  brandStrength: 0
+  lightness: 0.4375
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
